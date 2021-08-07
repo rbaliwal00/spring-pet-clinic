@@ -1,0 +1,5 @@
+com\example\springpetclinic\model\Pet.class
+com\example\springpetclinic\model\Petype.class
+com\example\springpetclinic\model\Person.class
+com\example\springpetclinic\model\Owner.class
+com\example\springpetclinic\model\Vet.class
