@@ -19,6 +19,7 @@
     <name>spring-pet-clinic</name>
     <description>spring-pet-clinic</description>
     <properties>
+        <start-class>com.example.SpringPetClinicApplication</start-class>
         <java.version>16</java.version>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
     </properties>
