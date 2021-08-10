@@ -4,8 +4,8 @@ import com.example.springpetclinic.model.Owner;
 import com.example.springpetclinic.model.Vet;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import services.OwnerService;
-import services.VetService;
+import com.example.springpetclinic.services.OwnerService;
+import com.example.springpetclinic.services.VetService;
 
 
 @Component

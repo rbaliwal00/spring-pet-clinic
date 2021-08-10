@@ -1,4 +1,4 @@
-package services;
+package com.example.springpetclinic.services;
 
 import com.example.springpetclinic.model.Pet;
 
