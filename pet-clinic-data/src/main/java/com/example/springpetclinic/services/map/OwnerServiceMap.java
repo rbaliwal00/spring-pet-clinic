@@ -1,4 +1,4 @@
-package com.example.springpetclinic.map;
+package com.example.springpetclinic.services.map;
 
 import java.util.Set;
 

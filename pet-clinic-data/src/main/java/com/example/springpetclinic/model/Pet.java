@@ -4,15 +4,15 @@ import java.time.LocalDate;
 
 public class Pet extends BaseEntity{
 
-    private Petype petype;
+    private PetType petype;
     private Owner owner;
     private LocalDate birthDate;
 
-    public Petype getPetype() {
+    public PetType getPetype() {
         return petype;
     }
 
-    public void setPetype(Petype petype) {
+    public void setPetype(PetType petype) {
         this.petype = petype;
     }
 
