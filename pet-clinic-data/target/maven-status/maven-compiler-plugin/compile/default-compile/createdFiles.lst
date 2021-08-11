@@ -1,5 +1,7 @@
 com\example\springpetclinic\model\Visit.class
 com\example\springpetclinic\model\PetType.class
+com\example\springpetclinic\services\map\PetMapService.class
+com\example\springpetclinic\services\SpecialtyService.class
 com\example\springpetclinic\model\Vet.class
 com\example\springpetclinic\model\Pet.class
 com\example\springpetclinic\model\Specialty.class
@@ -10,9 +12,9 @@ com\example\springpetclinic\services\PetTypeService.class
 com\example\springpetclinic\model\Person.class
 com\example\springpetclinic\services\CrudService.class
 com\example\springpetclinic\services\map\OwnerServiceMap.class
-com\example\springpetclinic\services\map\PetServiceMap.class
 com\example\springpetclinic\services\map\VetServiceMap.class
 com\example\springpetclinic\services\VetService.class
 com\example\springpetclinic\model\Owner.class
 com\example\springpetclinic\services\OwnerService.class
+com\example\springpetclinic\services\map\SpecialtyMapService.class
 com\example\springpetclinic\services\PetService.class
