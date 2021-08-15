@@ -1,6 +1,6 @@
 package com.example.springpetclinic.services.springdatajpa;
 
-import com.example.repositories.PetRepository;
+import com.example.springpetclinic.repositories.PetRepository;
 import com.example.springpetclinic.model.Pet;
 import com.example.springpetclinic.services.PetService;
 import org.springframework.context.annotation.Profile;
